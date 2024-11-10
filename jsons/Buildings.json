@@ -3,7 +3,7 @@
 		"name": "Pnyx",
 		"uniqueTo": "Athens",
 		"cost": 1,
-		"uniques": ["Can only be built <in [Capital] cities> <after adopting [Representation]>", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns", "Destroyed when the city is captured", "Automatically built in all cities where it is buildable"]
+		"uniques": ["Can only be built <in [Capital] cities> <after adopting [Representation]>", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns", "Destroyed when the city is captured", "Automatically built in all cities where it is buildable", "Unsellable"]
 	},
 	{
 		"name": "Cadmea",
