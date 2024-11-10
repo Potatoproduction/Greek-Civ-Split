@@ -1,5 +1,4 @@
-[
-{
+ {
         "name": "Liberty",
         "era": "Ancient era",
         "priorities": {
@@ -66,5 +65,5 @@
                 "name": "Liberty Complete",
                 "uniques": ["Free Great Person"]
             }
-}
-]
+        ]
+    }
