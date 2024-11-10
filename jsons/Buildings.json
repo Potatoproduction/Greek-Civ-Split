@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Pnyx",
+		"uniqueTo": "Athens",
+		"cost": 1,
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns"]
+	},
+	{
 		"name": "Cadmea",
 		"replaces": "National Epic",
 		"uniqueTo": "Thebes",
