@@ -62,8 +62,7 @@
   "culture": 1,
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
-		"requiredTech": "Writing",
-        ]
+		"requiredTech": "Writing"
 	},
 	{
 		"name": "Basilikoi Paides",
