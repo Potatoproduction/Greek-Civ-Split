@@ -45,7 +45,7 @@
                     "uniques": [
                         "Each city founded increases culture cost of policies [33]% less than normal",
                         "Empire enters golden age",
-                        "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns. <for [Athens] Civilizations>"
+                        "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns. <for [Athens] Civilizations> <hidden from users>"
                     ],
                     "requires": ["Citizenship"],
                     "row": 2,
