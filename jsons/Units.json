@@ -24,7 +24,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+150]% to Flank Attack bonuses", "Gain [10] [Culture] <upon being defeated>", "Damage is ignored when determining unit Strength", "[+33]% Strength <when defending> <when above [66] HP>", "[+100]% XP gained from combat <when above [25] HP> <when below [75] HP>", "[+33]% Strength <when below [34] HP> <when attacking>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+150]% to Flank Attack bonuses", "Gain [10] [Culture] <upon being defeated>", "No damage penalty for wounded units", "[+33]% Strength <when defending> <when above [66] HP>", "[+100]% XP gained from combat <when above [25] HP> <when below [75] HP>", "[+33]% Strength <when below [34] HP> <when attacking>"],
 		"attackSound": "metalhit",
 "civilopediaText": [ 
                          { 
@@ -128,7 +128,7 @@
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
                 "promotions": ["Drill I", "Ignore terrain cost"],
-                "uniques": ["May withdraw before melee ([66]%)", "Can move immediately once bought", "[+100]% to Flank Attack bonuses"],
+                "uniques": ["Withdraws before melee combat <with [66]% chance>", "Can move immediately once bought", "[+100]% to Flank Attack bonuses"],
 		"attackSound": "arrow",
 "civilopediaText": [ 
                          { 
