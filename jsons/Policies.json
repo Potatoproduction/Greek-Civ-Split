@@ -1,4 +1,5 @@
- {
+[
+{
         "name": "Liberty",
         "era": "Ancient era",
         "priorities": {
@@ -67,3 +68,4 @@
             }
         ]
     }
+]
