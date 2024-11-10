@@ -1,4 +1,7 @@
 # Greek-Civ-Split
+An updated fork of OmberMan's mod.
+
+Original description:
 All credits to DW8030 and their 3rd & 4th Unique Component Mod for the Acropolis image.
 Acropolis and Hoplite are placeholders, at least in their current form.
 
